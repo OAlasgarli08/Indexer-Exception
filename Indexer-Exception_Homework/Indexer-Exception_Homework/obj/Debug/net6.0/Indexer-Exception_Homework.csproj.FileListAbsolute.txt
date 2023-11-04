@@ -1,0 +1,14 @@
+C:\Users\Omara\OneDrive\Desktop\Indexer-Exception\Indexer-Exception_Homework\Indexer-Exception_Homework\obj\Debug\net6.0\Indexer-Exception_Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omara\OneDrive\Desktop\Indexer-Exception\Indexer-Exception_Homework\Indexer-Exception_Homework\obj\Debug\net6.0\Indexer-Exception_Homework.AssemblyInfoInputs.cache
+C:\Users\Omara\OneDrive\Desktop\Indexer-Exception\Indexer-Exception_Homework\Indexer-Exception_Homework\obj\Debug\net6.0\Indexer-Exception_Homework.AssemblyInfo.cs
+C:\Users\Omara\OneDrive\Desktop\Indexer-Exception\Indexer-Exception_Homework\Indexer-Exception_Homework\obj\Debug\net6.0\Indexer-Exception_Homework.csproj.CoreCompileInputs.cache
+C:\Users\Omara\OneDrive\Desktop\Indexer-Exception\Indexer-Exception_Homework\Indexer-Exception_Homework\bin\Debug\net6.0\Indexer-Exception_Homework.exe
+C:\Users\Omara\OneDrive\Desktop\Indexer-Exception\Indexer-Exception_Homework\Indexer-Exception_Homework\bin\Debug\net6.0\Indexer-Exception_Homework.deps.json
+C:\Users\Omara\OneDrive\Desktop\Indexer-Exception\Indexer-Exception_Homework\Indexer-Exception_Homework\bin\Debug\net6.0\Indexer-Exception_Homework.runtimeconfig.json
+C:\Users\Omara\OneDrive\Desktop\Indexer-Exception\Indexer-Exception_Homework\Indexer-Exception_Homework\bin\Debug\net6.0\Indexer-Exception_Homework.dll
+C:\Users\Omara\OneDrive\Desktop\Indexer-Exception\Indexer-Exception_Homework\Indexer-Exception_Homework\bin\Debug\net6.0\Indexer-Exception_Homework.pdb
+C:\Users\Omara\OneDrive\Desktop\Indexer-Exception\Indexer-Exception_Homework\Indexer-Exception_Homework\obj\Debug\net6.0\Indexer-Exception_Homework.dll
+C:\Users\Omara\OneDrive\Desktop\Indexer-Exception\Indexer-Exception_Homework\Indexer-Exception_Homework\obj\Debug\net6.0\refint\Indexer-Exception_Homework.dll
+C:\Users\Omara\OneDrive\Desktop\Indexer-Exception\Indexer-Exception_Homework\Indexer-Exception_Homework\obj\Debug\net6.0\Indexer-Exception_Homework.pdb
+C:\Users\Omara\OneDrive\Desktop\Indexer-Exception\Indexer-Exception_Homework\Indexer-Exception_Homework\obj\Debug\net6.0\Indexer-Exception_Homework.genruntimeconfig.cache
+C:\Users\Omara\OneDrive\Desktop\Indexer-Exception\Indexer-Exception_Homework\Indexer-Exception_Homework\obj\Debug\net6.0\ref\Indexer-Exception_Homework.dll
